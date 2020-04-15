@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gofercrm.user.gofercrm.LeadActivity">
+
+    <item
+        android:id="@+id/soket_connection_id"
+        android:title="Chat Signal"
+        android:tooltipText="Chat Signal"
+        android:icon="@drawable/wifi_strength_off_outline"
+        android:iconTint="@color/white"
+        app:showAsAction="always"/>
+
+</menu>

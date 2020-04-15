@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_message_quote"
+        android:icon="@drawable/ic_message"
+        android:orderInCategory="100"
+        android:title="Quote" />
+    <item
+        android:id="@+id/action_message_edit"
+        android:icon="@drawable/edit_pencil"
+        android:orderInCategory="101"
+        android:title="Edit" />
+
+    <item
+        android:id="@+id/action_message_delete"
+        android:icon="@drawable/delete_outline"
+        android:orderInCategory="102"
+        android:title="@string/action_delete" />
+
+</menu>
